@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I'm currently working on whatsapp integration with rocket.chat.
+- 🌱 I’m currently learning NodeJS, React and MongoDB.
 
 <!--
 **crashbr/crashbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
